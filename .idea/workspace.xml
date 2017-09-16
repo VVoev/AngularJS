@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30614c7b-f118-475b-9fca-c4538609c0fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/controllers/loremCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/controllers/mainCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/controllers/secondMain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/demos/angular10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/demos/angular11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/demos/angular12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/demos/angular9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/directives/bigPlayers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/directives/exDir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/directives/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/js/exam11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/js/exam12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part3]/Lesson3/js/exam9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/controllers/demoOneController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/controllers/demoThreeController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/controllers/demoTwoController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/demos/angular13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/demos/angular14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/demos/angular15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/directive/demoTwo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/factory/factory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/js/exam13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/js/exam14.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/js/exam15.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/json/playerData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular[Part4]/Lesson4/services/service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="30614c7b-f118-475b-9fca-c4538609c0fa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -473,7 +445,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpaProject" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -597,12 +569,12 @@
       <workItem from="1504589919929" duration="3622000" />
       <workItem from="1504689739196" duration="29000" />
       <workItem from="1504725347528" duration="285000" />
-      <workItem from="1505553437810" duration="13126000" />
+      <workItem from="1505553437810" duration="13741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35285000" />
+    <option name="totallyTimeSpent" value="35900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
