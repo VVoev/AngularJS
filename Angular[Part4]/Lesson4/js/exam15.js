@@ -1,3 +1,2 @@
-/**
- * Created by Vladimir on 9/16/2017.
- */
+var app15 = angular.module('app15', []);
+

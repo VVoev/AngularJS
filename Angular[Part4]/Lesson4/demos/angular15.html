@@ -1,10 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html ng-app="app15" ng-cloak>
 <head>
-    <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>AngularJS Tutorial 15</title>
+    <style>
+        [ng\:cloak], [ng-cloak], .ng-cloak {
+            display: none;
+        }
+        .thick {
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-$END$
+
+<div ng-controller="mainCtrl">
+
+    <button ng-click="getData()">Get Data</button>
+    <br><br>
+
+    <!-- Display raw JSON -->
+    {{players}}
+
+    <!-- Put JSON in a list -->
+    <ul>
+        <li ng-repeat="player in players">
+            {{ player.name + " hit " + player.hr +
+            " Home Runs"}}
+        </li>
+    </ul>
+    <br>
+    Translate :
+    <input type="text" ng-model="wordsToTranslate"/>
+    <br><br>
+    <button ng-click="translate()">Translate</button>
+    <br><br>
+    {{translated}}
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="../js/exam15.js"></script>
+<script src="../controllers/demoThreeController.js"></script>
 </body>
 </html>
